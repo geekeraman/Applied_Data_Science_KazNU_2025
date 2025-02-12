@@ -68,7 +68,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow
 
 ```bash
 # Репозиторийді клондау
-git clone https://github.com/username/applied-data-science-kaznu.git
+git clone https://github.com/geekeraman/Applied_Data_Science_KazNU_2025.git
 cd applied-data-science-kaznu
 ```
 

@@ -76,6 +76,3 @@ cd applied-data-science-kaznu
 ## Лицензия
 
 Бұл жоба MIT лицензиясы бойынша таратылады. Қосымша ақпаратты `LICENSE` файлын ашып көріңіз.
-
-i want to add the materials for this course, its like some materials inspired me
-

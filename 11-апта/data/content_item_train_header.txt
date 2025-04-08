@@ -1,1 +1,3 @@
-movie id,year,ave rating,Action,Adventure,Animation,Children,Comedy,Crime,Documentary,Drama,Fantasy,Horror,Mystery,Romance,Sci-Fi,Thriller
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab619780accb86bdc1ffe2ad83615f2a54fb549d108079dc5811b9b7084169d7
+size 139
